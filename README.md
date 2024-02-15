@@ -9,3 +9,9 @@
     </ul>
   </dd>
 </dl>
+<dl>
+  <dt><h3>Live Preview 👇</dt>
+  <dd>
+    <a href="https://praveenkumarmallick.github.io/file-dropzone/">Click Here</a>
+  </dd>
+</dl>
